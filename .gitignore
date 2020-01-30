@@ -4,10 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/public
 # testing
 /coverage
-
+/.firebase/hosting.YnVpbGQ.cache
 # production
 /build
 
